@@ -4,7 +4,7 @@ The BoS Agent OS helps you understand and manage your company operating system.
 
 Most companies add AI tools on top of an operating system nobody has written down. Strategy lives in the founder's head. Roles blur. Decisions don't stick. AI amplifies whatever's already there — clarity becomes velocity; muddle becomes noise.
 
-The Workshop skill takes your OS draft and makes it real.
+The Workshop skill takes the OS draft from the bootstrap process and makes it real.
 
 ---
 
@@ -15,6 +15,8 @@ The Workshop skill takes your OS draft and makes it real.
 As you work through it, the AI starts to understand your strategic goals, identify gaps in your current thinking, and surface opportunities and threats specific to your business. It challenges assumptions, sharpens your agent roles and decision boundaries, and builds the institutional memory your company needs to run AI at scale.
 
 **Run Bootstrap before Workshop.** Workshop is designed to operate on an existing OS draft — not from scratch.
+
+> **Bootstrap vs Workshop:** Bootstrap creates a first draft from public information — fast, external, minimal input from you. Workshop refines that draft using your insider knowledge. If Bootstrap gives you the map, Workshop helps you navigate it. You are here for the second part.
 
 ---
 
@@ -39,6 +41,12 @@ The Workshop skill file is maintained in the canonical repo:
 **→ [BoS-OS-Start](https://github.com/BoSMark/BoS_OS_Start)**
 
 Install from there. Full installation instructions are in that repo.
+
+---
+
+## A note on RFCs
+
+Your OS is built around documents called **RFCs** (short for Request for Comments — a term borrowed from internet standards, where it means a living document open to refinement). RFCs are your strategy documents. Each one covers a distinct area of your business. They're called RFCs because they're meant to evolve, not be set in stone. Workshop is where they start to become genuinely yours.
 
 ---
 
